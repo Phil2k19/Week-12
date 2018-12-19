@@ -1,5 +1,4 @@
 Assignment:Chapter 8 #8
-Due Date: November 11, 2018
 Description: Write a modular program that analyzes a years worth of rainfall data. The program should have a getData()
 function that acccepts the total rainfall for each month. It should also have 4 value returning functions that return
 to the main, the functions are totalrainFall(), averageRainFall(), DriestMonth(), and WettestMonth(). The LAST TWO
@@ -12,12 +11,12 @@ Average Monthly Rainfall:	1.93 inches
 The Least rain fell in:		Month and Amount
 The Most rain fell in:		Month and Amount
 
-getData();				-Marlon
-totalRainFall();		Javon/Phillip
-averageRainfall();		Javon/Phillip
-DriestMonth();			Javon/Phillip
-WettestMonth();			Javon/Phillip
-DisplayReport();		-Marlon
+getData();				
+totalRainFall();		
+averageRainfall();		
+DriestMonth();			
+WettestMonth();			
+DisplayReport();		
 */
 #include <iostream>
 #include <iomanip>
